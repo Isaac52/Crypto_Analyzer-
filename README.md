@@ -1,3 +1,3 @@
 # Crypto_Analyzer-
 
-![](Crypto_Analyzer.jpg)
+![](crypto_analyzer.jpg)
